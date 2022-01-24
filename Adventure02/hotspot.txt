@@ -1,0 +1,4 @@
+HotSpot01,100,100,32,32,32x32_green.png
+HotSpot02,50,200,16,16,16x16_red.png
+HotSpot03,260,34,16,16,16x16_blue.png
+HotSpot04,300,300,38,52,pliers.png
